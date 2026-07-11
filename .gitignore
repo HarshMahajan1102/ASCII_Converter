@@ -1,0 +1,8 @@
+build/
+bin/
+lib/
+
+*.o
+*.out
+
+compile_commands.json
